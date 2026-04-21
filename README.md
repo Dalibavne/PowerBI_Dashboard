@@ -1,6 +1,5 @@
 Super Sale Dashboard-
-This project is a Power BI dashboard that provides insights into [your topic – e.g., sales, employee data, etc.].
-
+This project is a Power BI dashboard that provides insights into.
  Dataset
 - Source: Kaggle (CSV)
 - 
